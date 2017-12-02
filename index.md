@@ -1,1 +1,5 @@
 # videojuego de consola
+
+1.ATARI 2600
+2.INTELLIVISION
+3.SEGA SG-1000
